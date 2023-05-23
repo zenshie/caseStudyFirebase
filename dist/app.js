@@ -8,7 +8,7 @@ import { getFirestore, collection, addDoc, getDocs  } from "https://www.gstatic.
  
  // Your web app's Firebase configuration
  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
- const firebaseConfig = {
+const firebaseConfig = {
   apiKey: "AIzaSyCv1ThMfxRucVuyynkACX5uq6_ButWXHTE",
   authDomain: "case-study-v2.firebaseapp.com",
   projectId: "case-study-v2",
